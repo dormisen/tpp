@@ -1,0 +1,15 @@
+section{
+    border: 4px solid blue;
+}
+.sec2 fieldset{
+    text-align: center;
+}
+.sec4{
+    padding: 10px;
+    justify-content: center;
+    text-align: center;
+}
+.sec4 fieldset{
+    height: 150px;
+    border: none;
+}
